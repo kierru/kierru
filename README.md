@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/obadhius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="obadhius" height="30" width="40" /></a>
 <a href="https://instagram.com/@beng_bengo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@beng_bengo" height="30" width="40" /></a>
+  <a href="https://twitter.com/@beng2wo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@beng2wo" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kierru&show_icons=true&locale=en&layout=compact" alt="kierru" /></p>
