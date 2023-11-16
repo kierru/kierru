@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Octavianus Bonggo Addhisukma</h1>
 <h3 align="center">A passionate Data Analyst in E-Sports</h3>
 
-- 🌱 I’m currently learning **building API**
+- 🌱 I’m currently **building API**
 
 - 👨‍💻 All of my projects are available at [https://kierru.github.io/portfolio-beng/](https://kierru.github.io/portfolio-beng/)
 
