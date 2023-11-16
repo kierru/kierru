@@ -1,4 +1,5 @@
-[![MasterHead](https://imgur.com/a/YPiWWlc)](https://public.tableau.com/app/profile/octavianus.bonggo.adhisukma/viz/PlayerPerfomance/PLAYERPERFOMANCE)
+[![MasterHead](https://i.imgur.com/eRaMGaP.png)](https://public.tableau.com/app/profile/octavianus.bonggo.adhisukma/viz/PlayerPerfomance/PLAYERPERFOMANCE)
+
 <h1 align="center">Hi 👋, I'm Octavianus Bonggo Addhisukma</h1>
 <h3 align="center">A passionate Data Analyst in E-Sports</h3>
 
