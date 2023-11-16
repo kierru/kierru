@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/eRaMGaP.png)](https://public.tableau.com/app/profile/octavianus.bonggo.adhisukma/viz/PlayerPerfomance/PLAYERPERFOMANCE)
+[![MasterHead](https://i.imgur.com/eRaMGaP.png)](https://obadhius.notion.site/Valorant-Dashboard-Data-Scrapping-VCT-Pacific-080c09b09bb843b2b0f91581bfd0b89f)
 
 <h1 align="center">Hi 👋, I'm Octavianus Bonggo Addhisukma</h1>
 <h3 align="center">A passionate Data Analyst in E-Sports</h3>
